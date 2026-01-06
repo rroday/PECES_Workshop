@@ -5,7 +5,7 @@ Date: 2025-12-19
 
 ## Overview
 
-This repository contains materials for a workshop on using open-access fisheries and environmental datasets in Earth and ocean science classrooms. The lesson emphasis is "coding to learn" — using R to derive ecological and management insights from real-world datasets (assumes basic R knowledge).
+This repository contains materials for a workshop on using open-access fisheries and environmental datasets in Earth and ocean science classrooms. The lesson emphasis is "coding to learn" — using R to derive ecological and management insights from real-world datasets (assumes basic R knowledge). For Jan 13th, we will be using _this_ slide deck: https://docs.google.com/presentation/d/10r4Xc-yfiQshg1YlWoulmvbfD1mmiQ0kPKAPwBCptT8/edit?usp=sharing
 
 Key goals:
 - Teach data access, cleaning, visualization, and interpretation using open fisheries and environmental datasets.
