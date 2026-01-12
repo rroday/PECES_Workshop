@@ -19,17 +19,17 @@ Target audience & prerequisites:
 ## Datasets & data sources (examples)
 
 Primary fisheries datasets:
-- MRIP (Marine Recreational Information Program) — recreational catch data (downloadable CSVs).
+- MRIP (Marine Recreational Information Program) — recreational catch data (downloadable CSVs): https://www.fisheries.noaa.gov/insight/marine-recreational-information-program
 - DisMAP (distribution mapping; R code available but needs maintenance at the moment) — https://apps-st.fisheries.noaa.gov/dismap/DisMAP.html
-- FOSS (Fisheries One Stop Shop) — MRIP and Survey data (above) in addition to economic and data (downloadable CSVs, and possible API).
+- FOSS (Fisheries One Stop Shop) — MRIP and Survey data (above) in addition to economic and data (downloadable CSVs, and possible API): https://www.fisheries.noaa.gov/foss/f?p=215:200::::::
 
 Other NOAA surveys and data portals:
 - NOAA fisheries dataset examples (many catalogs) — e.g. Northern Shrimp Survey Data: https://www.fisheries.noaa.gov/resource/data/northern-shrimp-survey-data
 - Surveyjoin package 
 
 Environmental / supplemental data:
-- ERDDAP (oceanographic & environmental time-series; CSV downloads).
-- USGS stream data via the dataRetrieval R package.
+- ERDDAP (oceanographic & environmental time-series; CSV downloads): https://www.ncei.noaa.gov/erddap/index.html
+- USGS stream data via the dataRetrieval R package: https://doi-usgs.github.io/dataRetrieval/
 
 Notes: Many datasets include metadata and error/uncertainty estimates that can (and should) be used when teaching interpretation and management implications.
 
