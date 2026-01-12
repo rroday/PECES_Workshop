@@ -37,9 +37,8 @@ Notes: Many datasets include metadata and error/uncertainty estimates that can (
 I propose a session that covers how open-access fisheries datasets (NOAA MRIP, DisMAP, FOSS, etc) can be used to teach coding, visualization, and applied analysis in Earth and ocean science classrooms. These datasets are spatially and temporally rich, relevant to students interested in marine resource management, and climate impacts.
 
 Suggested format:
-- 20-minute walkthrough: a compact sample lesson using R (data download, basic cleaning, one visualization and short interpretation).
-- 30-minute structured activity and discussion: strategies to simplify complex datasets for teaching, guiding students from raw to interpretable outputs (maps, trends, indices), and connecting exercises to fisheries management.
-- Participants share approaches, challenges, and resources to collaboratively improve open-data pedagogy.
+- 25-minute walkthrough: a compact sample lesson using R. (15 minutes of intro, 10 minutes of example)
+- 35-minute structured activity and discussion: strategies to simplify complex datasets for teaching, guiding students from raw to interpretable outputs (maps, trends, indices), and connecting exercises to fisheries management. Participants share approaches, challenges, and resources to collaboratively improve open-data pedagogy.
 
 ## Example lesson flow 
 
