@@ -55,7 +55,6 @@ Suggested format:
 - README.md — this file
 - workshop.R — starter R script for the lesson 
 - data/ — place for sample CSVs 
-- docs/ — lesson slides or handouts
 
 ---
 
