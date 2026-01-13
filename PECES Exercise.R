@@ -30,12 +30,11 @@
 ######################## Working Directory and Packages ########################
 
 # Load libraries 
-# install.packages("ggplot2", "tidyverse", "dplyr", "stats", "scales", "readr") #you may need to locally install these packages
-library(ggplot2)        #graphing
+# install.packages("tidyverse")
+# install.packages("stats")
+# install.packages("readr")
 library(tidyverse)      #data wrangling
-library(dplyr)          #data wrangling
 library(stats)          #certain stats
-library(scales)
 library(readr)          #read_csv function
 
 ######################## Loading Data  #########################################
@@ -127,3 +126,4 @@ ggsave(filename = "Figure_1.jpeg", plot = last_plot(), device = "jpeg",  width =
 ######################## Spare Code   ##########################################
 
 # You can place spare or junk code here. Make sure to comment out before saving your file :)
+
